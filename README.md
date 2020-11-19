@@ -4,7 +4,7 @@
 
  - Builds an NxN lattice of spins
  - Equilibrates system using a numerical Monte Carlo method (Metropolis)
- - Computes <magnetization>, <energy>, and <energy^2>
+ - Computes average magnetization, average energy, and average energy^2
  - Visualizes trajectories using Matplotlib.pyplot
  
 Based on 1944 Physical Review paper by Lars Onsager, which was "one of the major achievements of
