@@ -1,6 +1,6 @@
 # 2D-Ising-Model
 
-2D Ising model project, developed as part of statistical mechanics course (Chem 6481) during Spring 2020.
+2D Ising model project, created as part of statistical mechanics course (Chem 6481) during Spring 2020.
 
  - Builds an NxN lattice of spins
  - Equilibrates system using a numerical Monte Carlo method (Metropolis)
