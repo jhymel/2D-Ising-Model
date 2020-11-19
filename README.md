@@ -8,4 +8,4 @@
  - Visualizes trajectories using Matplotlib.pyplot
  
 Based on [1944 Physical Review paper by Lars Onsager](Onsager_paper_1944.pdf), considered "one of the major achievements of
-20th century science" according to David Chandler. A PDF of this paper is included in this repo.
+20th century science" according to David Chandler.
